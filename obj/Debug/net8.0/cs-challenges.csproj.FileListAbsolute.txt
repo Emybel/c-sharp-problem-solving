@@ -12,3 +12,4 @@ E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj
 E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.pdb
 E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.genruntimeconfig.cache
 E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\ref\cs-challenges.dll
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.sourcelink.json
