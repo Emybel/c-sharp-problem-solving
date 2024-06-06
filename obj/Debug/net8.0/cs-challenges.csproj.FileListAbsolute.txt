@@ -1,0 +1,14 @@
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\bin\Debug\net8.0\cs-challenges.exe
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\bin\Debug\net8.0\cs-challenges.deps.json
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\bin\Debug\net8.0\cs-challenges.runtimeconfig.json
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\bin\Debug\net8.0\cs-challenges.dll
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\bin\Debug\net8.0\cs-challenges.pdb
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.GeneratedMSBuildEditorConfig.editorconfig
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.AssemblyInfoInputs.cache
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.AssemblyInfo.cs
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.csproj.CoreCompileInputs.cache
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.dll
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\refint\cs-challenges.dll
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.pdb
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\cs-challenges.genruntimeconfig.cache
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\cs-challenges\obj\Debug\net8.0\ref\cs-challenges.dll
