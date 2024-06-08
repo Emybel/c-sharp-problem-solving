@@ -17,21 +17,21 @@ namespace MyApp
             // Console.Write(Challenge8.RepeatStr());
             // Console.Write(Challenge9.AddOneChar());
             // Console.Write(Challenge10.MultipleOf());
-            Console.Write(Challenge11.AddThreeChars());
-            Console.Write(Challenge12.StartWithCsharp());
-            Console.Write(Challenge13.Temperature());
-            Console.Write(Challenge14.InRange());
-            Console.Write(Challenge15.InRange3Values());
-            Console.Write(Challenge16.InRange2Values());
-            Console.Write(Challenge17.CheckForYt("You"));
-            Console.Write(Challenge18.LargestNumber());
-            Console.Write(Challenge19.CloseTo100());
-            Console.Write(Challenge20.Compare2Numbers());
-            Console.Write(Challenge21.ReturnBiggerNum());
-            Console.Write(Challenge22.CheckForZ());
-            Console.Write(Challenge23.LastDigit());
-            Console.Write(Challenge24.Last3ToUpper());
-            Console.Write(Challenge25.NumberOfCopies());
+            // Console.Write(Challenge11.AddThreeChars());
+            // Console.Write(Challenge12.StartWithCsharp());
+            // Console.Write(Challenge13.Temperature());
+            // Console.Write(Challenge14.InRange());
+            // Console.Write(Challenge15.InRange3Values());
+            // Console.Write(Challenge16.InRange2Values());
+            // Console.Write(Challenge17.CheckForYt());
+            // Console.Write(Challenge18.LargestNumber());
+            // Console.Write(Challenge19.CloseTo100());
+            // Console.Write(Challenge20.Compare2Numbers());
+            // Console.Write(Challenge21.ReturnBiggerNum());
+            // Console.Write(Challenge22.CheckForZ());
+            // Console.Write(Challenge23.LastDigit());
+            // Console.Write(Challenge24.Last3ToUpper());
+            // Console.Write(Challenge25.NumberOfCopies());
         }
     }
 }
